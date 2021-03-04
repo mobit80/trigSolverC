@@ -1,0 +1,4 @@
+This was a homework assignment spring 2020
+buildthings.sh compiles all the available files together
+mylib.c is a library file containing all the functions for the lab3.c to process
+the program was designed to be used alongside IO redirections so the best way to run it is to ./lab3 < lab3in.txt
