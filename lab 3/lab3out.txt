@@ -1,0 +1,18 @@
+Surface area: 3885.043 cm^2 
+Sphere volume: 22770.238 cm^3 
+Cylinder volume: 2077.238 ft^3 
+Sum of floats: 1100159.00000000 
+Sum of floats, sorted: 1100159.00000000000 
+The answers to these two sums should be different due to the point at which rounding begins within the number changing. 
+sin(   0.785) =    0.707rad
+sin(   0.628) =    0.588rad
+sin(   0.001) =    0.001rad
+Surface area: 3885.043 cm^2 
+Sphere volume: 22770.238 cm^3 
+Cylinder volume: 2077.238 ft^3 
+Sum of floats: 1100159.00000000 
+Sum of floats, sorted: 1100159.00000000000 
+The answers to these two sums should be different due to the point at which rounding begins within the number changing. 
+sin(   0.785) =    0.707rad
+sin(   0.628) =    0.588rad
+sin(   0.001) =    0.001rad
